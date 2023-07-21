@@ -1,10 +1,10 @@
-## **_Abiodun Gbadamosi_**
-<!-- change image using octocat and drag here  -->
+ ## **_Abiodun Gbadamosi_**
+<!-- change image using octocat and drag here-->
 ![here is a picture of my octocat to keep things interesting.](https://github.com/AOGbadamosi2018/Abiodun-Gbadamosi/assets/40220355/bd604c4a-f768-4db2-9619-b137e5c56824)
 
 *Hi there👋*
 
-* 🔭 I'm currently working on ...
+* 🔭 I'm currently working on the Data Scientist Associate Certification...
 * 🌱 I'm currently learning MlOps...
 * 🧑‍🤝‍🧑 I'm looking to collaborate on public speaking events
 * 🤔 I'm looking for help with containerization
