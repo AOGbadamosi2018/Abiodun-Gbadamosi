@@ -7,7 +7,7 @@
 * 🔭 I'm currently working on the Data Scientist Associate Certification...
 * 🌱 I'm currently learning MlOps...
 * 🧑‍🤝‍🧑 I'm looking to collaborate on public speaking events
-* 🤔 I'm looking for help with containerization
+* 🤔 I'm looking for help with containerization and Monte Carlo Simulations 
 * 💭 Ask me about campaign optimization
 * 📫 How to reach me :
   * [linkedin](https://www.linkedin.com/in/abiodungbadamosi/)
