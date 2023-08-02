@@ -26,7 +26,7 @@
 ><sub>While this is not a quote</sub>
 Use `moding pandas` to use an optimized engine for your data manipulation. 
 
-Some basic projects that I have worked on are related to : 
+Some basic projects that I have worked on are related to: 
 - Hypothesis testing
     - Two facor experimentation design
 - Machine Learning using traditional and treebased models. 
