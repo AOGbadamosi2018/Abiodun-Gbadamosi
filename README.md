@@ -4,17 +4,17 @@
 
 *Hi there👋*
 
-* 🔭 I'm currently working on the Data Scientist Professional Certification...
+* 🥇 I'm a certified Data Scientist Professional...
 * 🌱 I'm currently learning MlOps...
-* 🧑‍🤝‍🧑 I'm looking to collaborate on public speaking events
+* 🧑‍🤝‍🧑 I'm looking to collaborate on public speaking events.
 * 🤔 I'm looking for help with containerization and Monte Carlo Simulations 
-* 💭 Ask me about campaign optimization
+* 💭 Ask me about campaign optimization and survey analytics.
 * 📫 How to reach me :
   * [linkedin](https://www.linkedin.com/in/abiodungbadamosi/)
   * [Upwork](https://www.upwork.com/freelancers/~0196df2bb7533b8bdd?viewMode=1)
   * [Tableau](https://public.tableau.com/app/profile/abiodun.gbadamosi)
 * 😃 Pronouns: Him/He
-* ✨ Fun fact: I cook most of my own meals .
+* ✨ Fun fact: I enjoy cooking most of my own meals and analyse my personal data.
 
 
 
