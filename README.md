@@ -14,7 +14,7 @@
   * [Upwork](https://www.upwork.com/freelancers/~0196df2bb7533b8bdd?viewMode=1)
   * [Tableau](https://public.tableau.com/app/profile/abiodun.gbadamosi)
 * 😃 Pronouns: Him/He
-* ✨ Fun fact: I enjoy cooking most of my own meals and analyse my personal data.
+* ✨ Fun fact: I enjoy cooking most of my own meals and analysing my personal data.
 
 
 
