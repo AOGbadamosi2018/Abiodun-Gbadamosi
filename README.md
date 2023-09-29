@@ -1,4 +1,4 @@
- ## **_Abiodun Gbadamosi_**
+ ## **_Abiodun Opeyemi Gbadamosi_**
 <!-- change image using octocat and drag here-->
 ![here is a picture of my octocat to keep things interesting.](https://github.com/AOGbadamosi2018/Abiodun-Gbadamosi/assets/40220355/bd604c4a-f768-4db2-9619-b137e5c56824)
 
