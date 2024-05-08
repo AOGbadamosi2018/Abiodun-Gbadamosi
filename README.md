@@ -28,7 +28,7 @@ Use `moding pandas` to use an optimized engine for your data manipulation.
 
 Some basic projects that I have worked on are related to: 
 - Hypothesis testing
-    - Two facor experimentation design
+    - Two factor experimentation design
 - Machine Learning using traditional and treebased models. 
 - A/B Experimentation
 - [Insights reporting](https://terragongroup.com/detty-december-preparing-your-brand-for-2022s-peak-holiday/#:~:text=an%20electioneering%202023.-,Download,-Report)
